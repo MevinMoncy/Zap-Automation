@@ -1,4 +1,4 @@
-# Zap-Automation Blog
+# Zapier Automation Blog
 
 # Instagram Content Automation with Zapier
 
